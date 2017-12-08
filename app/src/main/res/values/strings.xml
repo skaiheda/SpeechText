@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="speech_prompt">Say something!</string>
+    <string name="speech_not_supported">Your device doesn\'t support speech</string>
+</resources>
